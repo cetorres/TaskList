@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Lista de Tarefas</string>
+<string name="botaoAdicionar">Adicionar</string>
+<string name="menuSobre">Sobre</string>
+<string name="menuApagarTarefa">Apagar esta tarefa</string>
+</resources>
